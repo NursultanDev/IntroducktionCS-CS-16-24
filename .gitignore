@@ -1,0 +1,6 @@
+#ignore .obsidian /
+*.obsidian/
+
+#ignore .git/
+*.git/
+
